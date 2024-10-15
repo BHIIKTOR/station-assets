@@ -121,7 +121,7 @@ module.exports = {
     },
     {
       token:
-        'archway16kxu278xtwa9ql20yhgk9smk2k6ke74hsxeesf36c9dhxqc5zyksh8ykwu',
+        'archway12yurzx8zynv3ck7uh4tucre48tqsm4fac4hfk9p3l24qs2cn08dqr684cg',
       name: '"Architects Token',
       symbol: 'TOKN',
       decimals: 18,
